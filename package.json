@@ -1,0 +1,24 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "stringCount.js",
+  "scripts": {
+    "test": "jest"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tamunokuro/testing-with-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tamunokuro/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/Tamunokuro/testing-with-jest#readme",
+  "devDependencies": {
+    "jest": "^29.3.0"
+  }
+}
